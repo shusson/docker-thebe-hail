@@ -1,0 +1,7 @@
+{
+  "load_extensions": {
+    "genepattern/index": true, 
+    "jupyter-js-widgets/extension": true, 
+    "jupyter_wysiwyg/index": true
+  }
+}
