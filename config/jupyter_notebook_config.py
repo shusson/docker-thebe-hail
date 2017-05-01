@@ -1,7 +1,7 @@
 
 c.NotebookApp.tornado_settings = {
     'headers': {
-        'Content-Security-Policy': "frame-ancestors 'self' http://localhost:4200"
+        'Content-Security-Policy': "frame-ancestors 'self' http://localhost:4200 https://staging-sgc.kccg.garvan.org.au https://sgc-demo-00.firebaseapp.com https://sgc-demo-01.firebaseapp.com"
     }
 }
 
